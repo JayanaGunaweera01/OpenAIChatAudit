@@ -56,7 +56,7 @@ export default async function Home() {
             ) : (
               <Link href="/sign-in">
                 <Button>
-                  Login to get Started!
+                  Connect to AI Assistant
                   <LogIn className="w-4 h-4 ml-2" />
                 </Button>
               </Link>
